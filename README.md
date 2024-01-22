@@ -1,1 +1,1 @@
-# Distributed-Multi-Task-Linear-Bandit
+# Distributed Multi-Task Bandit
